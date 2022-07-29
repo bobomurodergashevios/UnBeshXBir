@@ -389,6 +389,7 @@ class GameViewController: UIViewController {
             self.mixing()
             startTimer()
         }
+//        alert.addAction(okAct)
         alert.addAction(okAct)
     }
     
